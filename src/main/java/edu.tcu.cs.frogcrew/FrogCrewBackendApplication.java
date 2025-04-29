@@ -1,4 +1,4 @@
-package edu.tcu.cs.frogcrewbackend;
+package edu.tcu.cs.frogcrew;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
